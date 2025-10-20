@@ -1,0 +1,7 @@
+# Ignore secrets and temp files
+.streamlit/secrets.toml
+uploads/
+rag_store/
+__pycache__/
+.env
+*.log
