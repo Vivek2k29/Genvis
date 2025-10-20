@@ -1,7 +1,7 @@
-# Ignore secrets and temp files
-.streamlit/secrets.toml
+
+# .gitignore
 uploads/
 rag_store/
-__pycache__/
 .env
-*.log
+.streamlit/secrets.toml
+__pycache__/
